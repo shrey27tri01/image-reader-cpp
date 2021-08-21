@@ -7,3 +7,7 @@ To run the program:
 - `./a.out inputfile.ppm`
 
 An output `ppm` file, `outfile.ppm` will be generated, which has the BRG format.
+
+<img src="assets/image-1.png">
+<img src="assets/image-2.png">
+<img src="assets/image-3.png">
